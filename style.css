@@ -1,0 +1,12 @@
+.single_product {
+	position: relative;
+}
+.single_product .badge {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	border-radius: 3px !important;
+}
+
+
+.ratings{color: orange;}
