@@ -7,6 +7,9 @@
 	right: 10px;
 	border-radius: 3px !important;
 }
-
-
-.ratings{color: orange;}
+.ratings ion-icon {
+	color: orange;
+}
+.d-flex icon{
+	margin-top:5px;
+}
